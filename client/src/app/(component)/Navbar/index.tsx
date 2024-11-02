@@ -73,7 +73,7 @@ const Navbar = () => {
               className="rounded-full h-full object-cover"
             /> */}
             <div className="w-9 h-9">image</div>
-            <span className="font-semibold">Ed Roh</span>
+            <span className="font-semibold">Linh</span>
           </div>
         </div>
         <Link href="/settings">
